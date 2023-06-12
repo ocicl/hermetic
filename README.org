@@ -1,0 +1,10 @@
+* hermetic
+
+Security for Clack-based Common Lisp web applications.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/hermetic.git   |
+| commit  | 234e78c  |
+| systems | hermetic |
+|---------+-------------------------------------------|
+
